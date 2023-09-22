@@ -1,0 +1,12 @@
+Steps to download files:
+1, Clone repo
+# git clone https://github.com/Lep512/xxxxx.git
+
+
+Steps to upload files:
+1, Add  a file
+ # git add XXX 
+2 Commit files
+# git commit -m "this is a comment"
+3, Push file
+# git push 
