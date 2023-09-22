@@ -1,0 +1,37 @@
+1, Run the program in command line: python ticketingsystem.py 
+
+2, Following this, it will dispaly how the program works: 
+    2a, create the first ticket(let's say it ticket1)
+        - Input your stall ID: MARIAH, then press "enter"
+        - Input your name: Maria, then press "enter"
+        - Input your email: maria@whitecliffe.co.nz, then press "enter"
+        - Input your desciption: Request for a videocamera to conduct webinars, then press "enter"
+        Then the program prints the statistic there is one ticket created and one ticket need to be solved
+
+    2b, create the second ticket(let's say it ticket2) to request a password change
+        - Input your stall ID: CHRIS, then press "enter"
+        - Input your name: Christian, then press "enter"
+        - Input your email: chris@whitecliffe.co.nz, then press "enter"
+        - Input your desciption: I need to password change for my account, then press "enter"
+        Then the program prints the statistic there are 2 tickets created and 1 ticket need to be solved and 1 ticket is solved, which the password is generated automatically and the ticket2 is closed.
+
+    2c, create the third ticket(let's say it ticket3) and disply an IT technician can response to the ticket
+        - Input your stall ID: INNAM, then press "enter"
+        - Input your name: Inna, then press "enter"
+        - Input your email: inna@whitecliffe.co.nz, then press "enter"
+        - Input your desciption: My monitor stopped working, then press "enter"
+        Then the program prints the statistic there are 3 tickets created and 2 ticket need to be solved and 1 ticket is solved.
+    
+    2d, IT technicain responses to the ticket3, with repsonse message 'The monitor has been replaced.'
+        - The program done this very quickly, and print out "IT technicain response to resolve ticket3."
+        Then the program prints the statistic there are 3 tickets created and 1 ticket need to be solved and 2 ticket is solved.
+
+    2e, IT technicain resolve to the ticket1
+        - The program done this very quickly
+        Then the program prints the statistic there are 3 tickets created and 0 ticket need to be solved and 3 ticket is solved.
+
+    2f, IT technicain tries to reopen ticket1.
+        - The program done this very quickly
+        Then the program prints the statistic there are 3 tickets created and 1 ticket need to be solved and 2 ticket is solved.
+
+3, Before the program exit, it prints all ticket statistics.
